@@ -2,4 +2,5 @@ First line added
 Change 1 from remote
 Change 2
 Second line added
+Third line added
 
